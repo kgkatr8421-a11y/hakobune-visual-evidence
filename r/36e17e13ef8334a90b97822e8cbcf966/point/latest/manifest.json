@@ -1,0 +1,92 @@
+{
+  "lane": "point",
+  "commit": "e309e757",
+  "generated_at": "2026-10-14T22:35:03+00:00",
+  "desktop_count": 5,
+  "mobile_count": 4,
+  "reference_count": 9,
+  "contact_sheet": {
+    "path": "contact-sheet.png",
+    "bytes": 1301603,
+    "width": 1722,
+    "height": 3636,
+    "sha256": "dee8cf2009bcf49eca7fca4ec513cf7481c2a2a946382edc6f0120f3664b258f"
+  },
+  "files": [
+    {
+      "path": "shots/01_user_desktop.png",
+      "bytes": 84108,
+      "width": 800,
+      "height": 556,
+      "kind": "desktop",
+      "sha256": "19bcb1289a49a4f398eae58bc5b366c1d53a7ed21786007ba94e12f9d2973880"
+    },
+    {
+      "path": "shots/02_user_mobile_390.png",
+      "bytes": 134935,
+      "width": 406,
+      "height": 878,
+      "kind": "mobile",
+      "sha256": "1bc61844011a82afda953b49b601f1468778abd7f4d557ce44e23998e9f52c92"
+    },
+    {
+      "path": "shots/03_user_history_and_units.png",
+      "bytes": 122262,
+      "width": 406,
+      "height": 878,
+      "kind": "mobile",
+      "sha256": "f7b0c3532e31a83b68960eac534198f48dfe52445989cc0a92f83a8b2de5726a"
+    },
+    {
+      "path": "shots/04_owner_serving.png",
+      "bytes": 162878,
+      "width": 800,
+      "height": 556,
+      "kind": "desktop",
+      "sha256": "5ea91842679755b644924aeb1a42dd75a51894cf2b368720db0a9c67a37dd29e"
+    },
+    {
+      "path": "shots/05_owner_not_serving.png",
+      "bytes": 177396,
+      "width": 800,
+      "height": 556,
+      "kind": "desktop",
+      "sha256": "25fc8fd200757baa694f5ad0a24a2d4d70a34dfb666a0c64a82791f4fa7d9827"
+    },
+    {
+      "path": "shots/06_owner_funding_provenance.png",
+      "bytes": 127507,
+      "width": 800,
+      "height": 555,
+      "kind": "desktop",
+      "sha256": "016e435a84ae9264b63213374f747a74aa5cf099d0fa942ff8a3aaa96ba11542"
+    },
+    {
+      "path": "shots/07_owner_reconciliation.png",
+      "bytes": 40701,
+      "width": 667,
+      "height": 208,
+      "kind": "desktop",
+      "sha256": "f83d6ed07955330ebde138e28bf77a6a0607af82779ac26e6ef581baa8a6d0d2"
+    },
+    {
+      "path": "shots/08_redemption_confirm.png",
+      "bytes": 122353,
+      "width": 406,
+      "height": 878,
+      "kind": "mobile",
+      "sha256": "ec3cc9651dd3d958bfbfe9dfe960786655530d98469e314ecbda90c913019951"
+    },
+    {
+      "path": "shots/09_organization_choice.png",
+      "bytes": 137494,
+      "width": 406,
+      "height": 878,
+      "kind": "mobile",
+      "sha256": "368d8b3f57c9c3e42d7199569f7888af7722d2fd2c80f851cf443ee82d6a398b"
+    }
+  ],
+  "sanitized": true,
+  "production_touched": false,
+  "note": "feature OFF in production ／ real DB migration NO"
+}
